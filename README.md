@@ -1,2 +1,2 @@
 # Automatic_Controls_Project
-The project concerns the use of automatic control techniques for the pharmacological treatment of cancer cells in a laboratory environment
+Project carried out for the course of automatic controls in Computer Engineering at Unibo in the year 2021-2022.
